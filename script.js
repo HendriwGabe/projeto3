@@ -10,11 +10,11 @@ const perguntas = [
     alternativas: [
         {
             texto: "Isso é assustador!",
-            afirmacao: "afirmacao"
+            afirmacao: "No início ficou com medo do que essa tecnologia pode fazer."
         },
         {
             texto: "Isso é maravilhoso!",
-            afirmacao: "afirmacao"
+            afirmacao: "Quis saber como usar IA no seu dia a dia."
         }
               
     ]
@@ -24,11 +24,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
-                afirmacao: "afirmacao"
+                afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
             },
             {
                 texto:  "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-            afirmacao: "afirmacao"
+            afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
             }
              
         ]
@@ -38,11 +38,11 @@ const perguntas = [
             alternativas: [
                 {
                     texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-            afirmacao: "afirmacao"
+            afirmacao: "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA."
                 },
                 {
                     texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-            afirmacao: "afirmacao"
+            afirmacao: "Sua preocupação com as pessoas motivou a criar um grupo de estudos."
                 }
                    
             ]
@@ -53,11 +53,11 @@ const perguntas = [
                     {
 
                     texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                    afirmacao: "afirmacao"
+                    afirmacao: "Percebeu que toda IA reproduz orientações baseada na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não como resultado final."
                     },
                     {
                         texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
-                    afirmacao: "afirmacao"
+                    afirmacao: "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente e como utilizar também."
                     }
                     
                 ]
